@@ -13,3 +13,4 @@ if __name__ == '__main__':
     plt.show()
 
     print("new bug")
+    print ("bug fixed")
